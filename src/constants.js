@@ -1,1 +1,1 @@
-export const DB_NAME ="learnback"
+export const DB_NAME ="learnbackend"
